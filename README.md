@@ -18,6 +18,10 @@
 - **사용 기술:**
     - **Backend:** Java 11 / Spring Boot 2.6.4 / Gradle / Spring Data JPA / QueryDSL / MySQL 8.0 / Spring Security
     - **frontend:** React / SCSS / ES6
+- **코드 개선 및 트러블 슈팅:**
+    - [writePost 쿼리 최적화](https://velog.io/@sonchanwoo/writePost-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)
+    - [writeGet 리팩토링](https://velog.io/@sonchanwoo/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0-1-%EC%83%88-%EA%B8%80-%EC%9E%91%EC%84%B1%ED%99%94%EB%A9%B4-%EB%B3%B4%EA%B8%B0-%EA%B8%80-%EC%88%98%EC%A0%95%ED%99%94%EB%A9%B4-%EB%B3%B4%EA%B8%B0)
+    - [Spring Rest Docs 트러블 슈팅](https://velog.io/@sonchanwoo/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-restDocs)
 
 
 
